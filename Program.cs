@@ -55,4 +55,4 @@ class Program
         Console.WriteLine($"Varianza:             {Varianza(datos):F2}");
         Console.WriteLine($"Desviación estándar:  {DesviacionEstandar(datos):F2}");
     }
-}
+} 
